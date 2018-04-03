@@ -6,4 +6,4 @@ Thompson, E. J., S. A. Rutledge, B. Dolan, V. Chandrasekar, and B. L. Cheong, 20
 
 includes a melting layer detection algorithm adapted from:
 
-#Wolfensberger, D. , Scipion, D. and Berne, A. (2016), Detection and characterization of the melting layer based on polarimetric radar scans. Q.J.R. Meteorol. Soc., 142: 108-124. doi:10.1002/qj.2672
+Wolfensberger, D. , Scipion, D. and Berne, A. (2016), Detection and characterization of the melting layer based on polarimetric radar scans. Q.J.R. Meteorol. Soc., 142: 108-124. doi:10.1002/qj.2672
