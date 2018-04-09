@@ -1,5 +1,5 @@
 # Winter hydrometeor classfication 
-https://zenodo.org/badge/latestdoi/124630845
+<a href="https://zenodo.org/badge/latestdoi/124630845"><img src="https://zenodo.org/badge/124630845.svg" alt="DOI"></a>
 
 For quasi vertical profiles from radar based on work by
 
